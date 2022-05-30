@@ -1,0 +1,14 @@
+// IMPORT CUSTOM VARIABLES
+@import 'theme_variables'; 
+
+// FRAMEWORK
+@import '~bootstrap/scss/bootstrap.scss';
+
+// IMPORT FONTS
+@import 'fonts';
+
+// COMPONENTS
+
+// PAGES
+@import 'pages/index';
+@import 'pages/home';
